@@ -139,7 +139,7 @@ function draw() {
     mcqb.hide();
     pb.hide();
 
-    box1.velocityY = 0.75;
+    box1.velocityY = 1.5;
     box2.velocityY = 0;
 
   }
@@ -235,7 +235,7 @@ function loadScreen(){
     
 
     box1.velocityY = 0;
-    box2.velocityY = 0.35;
+    box2.velocityY = 1.05;
 
   }
 
